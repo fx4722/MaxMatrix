@@ -1,0 +1,8 @@
+maxmatrix.obj
+maxmatrix_emxAPI.obj
+maxmatrix_emxutil.obj
+maxmatrix_initialize.obj
+maxmatrix_terminate.obj
+rtGetInf.obj
+rtGetNaN.obj
+rt_nonfinite.obj
