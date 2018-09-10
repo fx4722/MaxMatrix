@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  exportfun.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\exportfun.cpp(7): error C2065: “emxArray_real_T”: 未声明的标识符
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\exportfun.cpp(7): error C2065: “A”: 未声明的标识符
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\exportfun.cpp(7): error C3861: “emxCreateWrapper_real_T”: 找不到标识符
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\exportfun.cpp(8): error C3861: “maxmatrix_initialize”: 找不到标识符
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\exportfun.cpp(9): error C2065: “A”: 未声明的标识符
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\exportfun.cpp(9): error C3861: “maxmatrix”: 找不到标识符
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\exportfun.cpp(10): error C3861: “maxmatrix_terminate”: 找不到标识符
+  main.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\rtwtypes.h(36): fatal error C1083: 无法打开包括文件: “tmwtypes.h”: No such file or directory
+  maxmatrix.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\maxmatrix.cpp(72): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  maxmatrix_emxAPI.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\maxmatrix_emxapi.cpp(144): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  maxmatrix_emxutil.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\maxmatrix_emxutil.cpp(59): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  maxmatrix_initialize.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\maxmatrix_initialize.cpp(29): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  maxmatrix_terminate.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\maxmatrix_terminate.cpp(29): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  rtGetInf.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\rtgetinf.cpp(55): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  rtGetNaN.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\rtgetnan.cpp(39): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  rt_nonfinite.cpp
+d:\fuxin\maxiummatixconsole\maxmatrixconsole\maxmatrixconsole\rt_nonfinite.cpp(81): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...
