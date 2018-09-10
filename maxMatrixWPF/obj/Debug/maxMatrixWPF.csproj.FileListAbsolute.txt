@@ -1,0 +1,15 @@
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\bin\Debug\maxMatrixWPF.exe.config
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\bin\Debug\maxMatrixWPF.exe
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\bin\Debug\maxMatrixWPF.pdb
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\maxMatrixWPF.csprojAssemblyReference.cache
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\MainWindow.g.cs
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\App.g.cs
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\maxMatrixWPF_MarkupCompile.cache
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\maxMatrixWPF_MarkupCompile.lref
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\MainWindow.baml
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\maxMatrixWPF.g.resources
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\maxMatrixWPF.Properties.Resources.resources
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\maxMatrixWPF.csproj.GenerateResource.cache
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\maxMatrixWPF.csproj.CoreCompileInputs.cache
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\maxMatrixWPF.exe
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixWPF\obj\Debug\maxMatrixWPF.pdb

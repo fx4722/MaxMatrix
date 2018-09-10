@@ -1,0 +1,7 @@
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixCSharp\bin\Debug\maxMatrixCSharp.exe.config
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixCSharp\bin\Debug\maxMatrixCSharp.exe
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixCSharp\bin\Debug\maxMatrixCSharp.pdb
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixCSharp\obj\Debug\maxMatrixCSharp.csprojAssemblyReference.cache
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixCSharp\obj\Debug\maxMatrixCSharp.csproj.CoreCompileInputs.cache
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixCSharp\obj\Debug\maxMatrixCSharp.exe
+D:\fuxin\maxiumMatixConsole\maxMatrixConsole\maxMatrixCSharp\obj\Debug\maxMatrixCSharp.pdb
