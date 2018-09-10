@@ -1,0 +1,3 @@
+LIBRARY "maxMatrixdll"
+EXPORTS
+	ex_maxmatrix @1
